@@ -2,10 +2,3 @@ streamlit
 requests
 pandas
 plotly
-```
-
-**Your folder should now have:**
-```
-D:\snow\jim\
-├── conley_climate.py
-└── requirements.txt
